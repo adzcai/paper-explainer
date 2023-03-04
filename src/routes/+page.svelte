@@ -6,7 +6,7 @@
     import PaperCard from "../lib/components/PaperCard.svelte";
 
     /**
-     * query for the 10 most recent papers from the arXiv api
+     * query for the most recent papers from the arXiv api
      */
     async function fetchRecentPapers({
         numResults,
@@ -41,7 +41,7 @@
         categoryId === "All"
             ? fetchRecentPapers({
                   numResults,
-                  categoryId,
+                  categoryId: "All",
               })
             : subcategoryId
             ? fetchRecentPapers({
@@ -81,19 +81,12 @@
     {#if categoryId !== "All"}
         <div class="mt-8">
             <select class="border-2 rounded p-2" bind:value={subcategoryId}>
-                {#if physicsCategory}
-                    {#each physicsCategory.subcategories as { name, description }}
-                        <option value={name}>
-                            ({name}) {description}
-                        </option>
-                    {/each}
-                {:else if otherCategory}
-                    {#each otherCategory.subcategories as { name, description }}
-                        <option value={name}>
-                            ({name}) {description}
-                        </option>
-                    {/each}
-                {/if}
+                <option value="" />
+                {#each (physicsCategory ?? otherCategory ?? { subcategories: [] }).subcategories as { name, description }}
+                    <option value={name}>
+                        ({name}) {description}
+                    </option>
+                {/each}
             </select>
         </div>
     {/if}
@@ -102,7 +95,7 @@
     <div class="mt-8">
         <label
             for="numResults"
-            class="block text-gray-700 text-sm font-bold mb-2"
+            class="block text-center text-sm font-bold mb-2"
         >
             Number of papers to get
         </label>
@@ -110,12 +103,12 @@
             type="number"
             id="numResults"
             bind:value={numResults}
-            class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-md"
+            class="shadow appearance-none border rounded w-full py-2 px-3 leading-tight focus:outline-none focus:shadow-md"
         />
     </div>
 
     <!-- list of papers -->
-    <div class="mt-8">
+    <div class="mt-8 space-y-4 mx-4">
         {#await papers}
             <div>Loading...</div>
         {:then papers}

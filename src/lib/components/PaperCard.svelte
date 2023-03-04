@@ -18,7 +18,7 @@
     const summary = extract("summary");
 </script>
 
-<div class="rounded border-2 shadow-lg p-4">
+<div class="rounded shadow p-4">
     <h2 class="text-xl font-bold">
         <Anchor href={url}>
             {title}
@@ -28,7 +28,7 @@
     <p class="text-gray-400 mt-1">{id}</p>
 
     <!-- open-and-closeable dialog -->
-    <details class="mt-2">
+    <details class="my-2">
         <summary class="text-gray-600 cursor-pointer">
             Show abstract
         </summary>
