@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Computer Science",
+    "subcategories": [
+      {
+        "name": "cs.AI",
+        "description": "Artificial Intelligence"
+      },
+      {
+        "name": "cs.AR",
+        "description": "Hardware Architecture"
+      },
+      {
+        "name": "cs.CC",
+        "description": "Computational Complexity"
+      },
+      {
+        "name": "cs.CE",
+        "description": "Computational Engineering, Finance, and Science"
+      },
+      {
+        "name": "cs.CG",
+        "description": "Computational Geometry"
+      },
+      {
+        "name": "cs.CL",
+        "description": "Computation and Language"
+      },
+      {
+        "name": "cs.CR",
+        "description": "Cryptography and Security"
+      },
+      {
+        "name": "cs.CV",
+        "description": "Computer Vision and Pattern Recognition"
+      },
+      {
+        "name": "cs.CY",
+        "description": "Computers and Society"
+      },
+      {
+        "name": "cs.DB",
+        "description": "Databases"
+      },
+      {
+        "name": "cs.DC",
+        "description": "Distributed, Parallel, and Cluster Computing"
+      },
+      {
+        "name": "cs.DL",
+        "description": "Digital Libraries"
+      },
+      {
+        "name": "cs.DM",
+        "description": "Discrete Mathematics"
+      },
+      {
+        "name": "cs.DS",
+        "description": "Data Structures and Algorithms"
+      },
+      {
+        "name": "cs.ET",
+        "description": "Emerging Technologies"
+      },
+      {
+        "name": "cs.FL",
+        "description": "Formal Languages and Automata Theory"
+      },
+      {
+        "name": "cs.GL",
+        "description": "General Literature"
+      },
+      {
+        "name": "cs.GR",
+        "description": "Graphics"
+      },
+      {
+        "name": "cs.GT",
+        "description": "Computer Science and Game Theory"
+      },
+      {
+        "name": "cs.HC",
+        "description": "Human-Computer Interaction"
+      },
+      {
+        "name": "cs.IR",
+        "description": "Information Retrieval"
+      },
+      {
+        "name": "cs.IT",
+        "description": "Information Theory"
+      },
+      {
+        "name": "cs.LG",
+        "description": "Machine Learning"
+      },
+      {
+        "name": "cs.LO",
+        "description": "Logic in Computer Science"
+      },
+      {
+        "name": "cs.MA",
+        "description": "Multiagent Systems"
+      },
+      {
+        "name": "cs.MM",
+        "description": "Multimedia"
+      },
+      {
+        "name": "cs.MS",
+        "description": "Mathematical Software"
+      },
+      {
+        "name": "cs.NA",
+        "description": "Numerical Analysis"
+      },
+      {
+        "name": "cs.NE",
+        "description": "Neural and Evolutionary Computing"
+      },
+      {
+        "name": "cs.NI",
+        "description": "Networking and Internet Architecture"
+      },
+      {
+        "name": "cs.OH",
+        "description": "Other Computer Science"
+      },
+      {
+        "name": "cs.OS",
+        "description": "Operating Systems"
+      },
+      {
+        "name": "cs.PF",
+        "description": "Performance"
+      },
+      {
+        "name": "cs.PL",
+        "description": "Programming Languages"
+      },
+      {
+        "name": "cs.RO",
+        "description": "Robotics"
+      },
+      {
+        "name": "cs.SC",
+        "description": "Symbolic Computation"
+      },
+      {
+        "name": "cs.SD",
+        "description": "Sound"
+      },
+      {
+        "name": "cs.SE",
+        "description": "Software Engineering"
+      },
+      {
+        "name": "cs.SI",
+        "description": "Social and Information Networks"
+      },
+      {
+        "name": "cs.SY",
+        "description": "Systems and Control"
+      }
+    ]
+  },
+  {
+    "name": "Economics",
+    "subcategories": [
+      {
+        "name": "econ.EM",
+        "description": "Econometrics"
+      },
+      {
+        "name": "econ.GN",
+        "description": "General Economics"
+      },
+      {
+        "name": "econ.TH",
+        "description": "Theoretical Economics"
+      }
+    ]
+  },
+  {
+    "name": "Electrical Engineering and Systems Science",
+    "subcategories": [
+      {
+        "name": "eess.AS",
+        "description": "Audio and Speech Processing"
+      },
+      {
+        "name": "eess.IV",
+        "description": "Image and Video Processing"
+      },
+      {
+        "name": "eess.SP",
+        "description": "Signal Processing"
+      },
+      {
+        "name": "eess.SY",
+        "description": "Systems and Control"
+      }
+    ]
+  },
+  {
+    "name": "Mathematics",
+    "subcategories": [
+      {
+        "name": "math.AC",
+        "description": "Commutative Algebra"
+      },
+      {
+        "name": "math.AG",
+        "description": "Algebraic Geometry"
+      },
+      {
+        "name": "math.AP",
+        "description": "Analysis of PDEs"
+      },
+      {
+        "name": "math.AT",
+        "description": "Algebraic Topology"
+      },
+      {
+        "name": "math.CA",
+        "description": "Classical Analysis and ODEs"
+      },
+      {
+        "name": "math.CO",
+        "description": "Combinatorics"
+      },
+      {
+        "name": "math.CT",
+        "description": "Category Theory"
+      },
+      {
+        "name": "math.CV",
+        "description": "Complex Variables"
+      },
+      {
+        "name": "math.DG",
+        "description": "Differential Geometry"
+      },
+      {
+        "name": "math.DS",
+        "description": "Dynamical Systems"
+      },
+      {
+        "name": "math.FA",
+        "description": "Functional Analysis"
+      },
+      {
+        "name": "math.GM",
+        "description": "General Mathematics"
+      },
+      {
+        "name": "math.GN",
+        "description": "General Topology"
+      },
+      {
+        "name": "math.GR",
+        "description": "Group Theory"
+      },
+      {
+        "name": "math.GT",
+        "description": "Geometric Topology"
+      },
+      {
+        "name": "math.HO",
+        "description": "History and Overview"
+      },
+      {
+        "name": "math.IT",
+        "description": "Information Theory"
+      },
+      {
+        "name": "math.KT",
+        "description": "K-Theory and Homology"
+      },
+      {
+        "name": "math.LO",
+        "description": "Logic"
+      },
+      {
+        "name": "math.MG",
+        "description": "Metric Geometry"
+      },
+      {
+        "name": "math.MP",
+        "description": "Mathematical Physics"
+      },
+      {
+        "name": "math.NA",
+        "description": "Numerical Analysis"
+      },
+      {
+        "name": "math.NT",
+        "description": "Number Theory"
+      },
+      {
+        "name": "math.OA",
+        "description": "Operator Algebras"
+      },
+      {
+        "name": "math.OC",
+        "description": "Optimization and Control"
+      },
+      {
+        "name": "math.PR",
+        "description": "Probability"
+      },
+      {
+        "name": "math.QA",
+        "description": "Quantum Algebra"
+      },
+      {
+        "name": "math.RA",
+        "description": "Rings and Algebras"
+      },
+      {
+        "name": "math.RT",
+        "description": "Representation Theory"
+      },
+      {
+        "name": "math.SG",
+        "description": "Symplectic Geometry"
+      },
+      {
+        "name": "math.SP",
+        "description": "Spectral Theory"
+      },
+      {
+        "name": "math.ST",
+        "description": "Statistics Theory"
+      }
+    ]
+  },
+  {
+    "name": "Quantitative Biology",
+    "subcategories": [
+      {
+        "name": "q-bio.BM",
+        "description": "Biomolecules"
+      },
+      {
+        "name": "q-bio.CB",
+        "description": "Cell Behavior"
+      },
+      {
+        "name": "q-bio.GN",
+        "description": "Genomics"
+      },
+      {
+        "name": "q-bio.MN",
+        "description": "Molecular Networks"
+      },
+      {
+        "name": "q-bio.NC",
+        "description": "Neurons and Cognition"
+      },
+      {
+        "name": "q-bio.OT",
+        "description": "Other Quantitative Biology"
+      },
+      {
+        "name": "q-bio.PE",
+        "description": "Populations and Evolution"
+      },
+      {
+        "name": "q-bio.QM",
+        "description": "Quantitative Methods"
+      },
+      {
+        "name": "q-bio.SC",
+        "description": "Subcellular Processes"
+      },
+      {
+        "name": "q-bio.TO",
+        "description": "Tissues and Organs"
+      }
+    ]
+  },
+  {
+    "name": "Quantitative Finance",
+    "subcategories": [
+      {
+        "name": "q-fin.CP",
+        "description": "Computational Finance"
+      },
+      {
+        "name": "q-fin.EC",
+        "description": "Economics"
+      },
+      {
+        "name": "q-fin.GN",
+        "description": "General Finance"
+      },
+      {
+        "name": "q-fin.MF",
+        "description": "Mathematical Finance"
+      },
+      {
+        "name": "q-fin.PM",
+        "description": "Portfolio Management"
+      },
+      {
+        "name": "q-fin.PR",
+        "description": "Pricing of Securities"
+      },
+      {
+        "name": "q-fin.RM",
+        "description": "Risk Management"
+      },
+      {
+        "name": "q-fin.ST",
+        "description": "Statistical Finance"
+      },
+      {
+        "name": "q-fin.TR",
+        "description": "Trading and Market Microstructure"
+      }
+    ]
+  },
+  {
+    "name": "Statistics",
+    "subcategories": [
+      {
+        "name": "stat.AP",
+        "description": "Applications"
+      },
+      {
+        "name": "stat.CO",
+        "description": "Computation"
+      },
+      {
+        "name": "stat.ME",
+        "description": "Methodology"
+      },
+      {
+        "name": "stat.ML",
+        "description": "Machine Learning"
+      },
+      {
+        "name": "stat.OT",
+        "description": "Other Statistics"
+      },
+      {
+        "name": "stat.TH",
+        "description": "Statistics Theory"
+      }
+    ]
+  }
+]

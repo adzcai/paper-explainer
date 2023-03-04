@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Astrophysics",
+    "subtitle": "astro-ph",
+    "subcategories": [
+      {
+        "name": "astro-ph.CO",
+        "description": "Cosmology and Nongalactic Astrophysics"
+      },
+      {
+        "name": "astro-ph.EP",
+        "description": "Earth and Planetary Astrophysics"
+      },
+      {
+        "name": "astro-ph.GA",
+        "description": "Astrophysics of Galaxies"
+      },
+      {
+        "name": "astro-ph.HE",
+        "description": "High Energy Astrophysical Phenomena"
+      },
+      {
+        "name": "astro-ph.IM",
+        "description": "Instrumentation and Methods for Astrophysics"
+      },
+      {
+        "name": "astro-ph.SR",
+        "description": "Solar and Stellar Astrophysics"
+      }
+    ]
+  },
+  {
+    "name": "Condensed Matter",
+    "subtitle": "cond-mat",
+    "subcategories": [
+      {
+        "name": "cond-mat.dis-nn",
+        "description": "Disordered Systems and Neural Networks"
+      },
+      {
+        "name": "cond-mat.mes-hall",
+        "description": "Mesoscale and Nanoscale Physics"
+      },
+      {
+        "name": "cond-mat.mtrl-sci",
+        "description": "Materials Science"
+      },
+      {
+        "name": "cond-mat.other",
+        "description": "Other Condensed Matter"
+      },
+      {
+        "name": "cond-mat.quant-gas",
+        "description": "Quantum Gases"
+      },
+      {
+        "name": "cond-mat.soft",
+        "description": "Soft Condensed Matter"
+      },
+      {
+        "name": "cond-mat.stat-mech",
+        "description": "Statistical Mechanics"
+      },
+      {
+        "name": "cond-mat.str-el",
+        "description": "Strongly Correlated Electrons"
+      },
+      {
+        "name": "cond-mat.supr-con",
+        "description": "Superconductivity"
+      }
+    ]
+  },
+  {
+    "name": "General Relativity and Quantum Cosmology",
+    "subtitle": "gr-qc",
+    "subcategories": [
+      {
+        "name": "gr-qc",
+        "description": "General Relativity and Quantum Cosmology"
+      }
+    ]
+  },
+  {
+    "name": "High Energy Physics - Experiment",
+    "subtitle": "hep-ex",
+    "subcategories": [
+      {
+        "name": "hep-ex",
+        "description": "High Energy Physics - Experiment"
+      }
+    ]
+  },
+  {
+    "name": "High Energy Physics - Lattice",
+    "subtitle": "hep-lat",
+    "subcategories": [
+      {
+        "name": "hep-lat",
+        "description": "High Energy Physics - Lattice"
+      }
+    ]
+  },
+  {
+    "name": "High Energy Physics - Phenomenology",
+    "subtitle": "hep-ph",
+    "subcategories": [
+      {
+        "name": "hep-ph",
+        "description": "High Energy Physics - Phenomenology"
+      }
+    ]
+  },
+  {
+    "name": "High Energy Physics - Theory",
+    "subtitle": "hep-th",
+    "subcategories": [
+      {
+        "name": "hep-th",
+        "description": "High Energy Physics - Theory"
+      }
+    ]
+  },
+  {
+    "name": "Mathematical Physics",
+    "subtitle": "math-ph",
+    "subcategories": [
+      {
+        "name": "math-ph",
+        "description": "Mathematical Physics"
+      }
+    ]
+  },
+  {
+    "name": "Nonlinear Sciences",
+    "subtitle": "nlin",
+    "subcategories": [
+      {
+        "name": "nlin.AO",
+        "description": "Adaptation and Self-Organizing Systems"
+      },
+      {
+        "name": "nlin.CD",
+        "description": "Chaotic Dynamics"
+      },
+      {
+        "name": "nlin.CG",
+        "description": "Cellular Automata and Lattice Gases"
+      },
+      {
+        "name": "nlin.PS",
+        "description": "Pattern Formation and Solitons"
+      },
+      {
+        "name": "nlin.SI",
+        "description": "Exactly Solvable and Integrable Systems"
+      }
+    ]
+  },
+  {
+    "name": "Nuclear Experiment",
+    "subtitle": "nucl-ex",
+    "subcategories": [
+      {
+        "name": "nucl-ex",
+        "description": "Nuclear Experiment"
+      }
+    ]
+  },
+  {
+    "name": "Nuclear Theory",
+    "subtitle": "nucl-th",
+    "subcategories": [
+      {
+        "name": "nucl-th",
+        "description": "Nuclear Theory"
+      }
+    ]
+  },
+  {
+    "name": "Physics",
+    "subtitle": "physics",
+    "subcategories": [
+      {
+        "name": "physics.acc-ph",
+        "description": "Accelerator Physics"
+      },
+      {
+        "name": "physics.ao-ph",
+        "description": "Atmospheric and Oceanic Physics"
+      },
+      {
+        "name": "physics.app-ph",
+        "description": "Applied Physics"
+      },
+      {
+        "name": "physics.atm-clus",
+        "description": "Atomic and Molecular Clusters"
+      },
+      {
+        "name": "physics.atom-ph",
+        "description": "Atomic Physics"
+      },
+      {
+        "name": "physics.bio-ph",
+        "description": "Biological Physics"
+      },
+      {
+        "name": "physics.chem-ph",
+        "description": "Chemical Physics"
+      },
+      {
+        "name": "physics.class-ph",
+        "description": "Classical Physics"
+      },
+      {
+        "name": "physics.comp-ph",
+        "description": "Computational Physics"
+      },
+      {
+        "name": "physics.data-an",
+        "description": "Data Analysis, Statistics and Probability"
+      },
+      {
+        "name": "physics.ed-ph",
+        "description": "Physics Education"
+      },
+      {
+        "name": "physics.flu-dyn",
+        "description": "Fluid Dynamics"
+      },
+      {
+        "name": "physics.gen-ph",
+        "description": "General Physics"
+      },
+      {
+        "name": "physics.geo-ph",
+        "description": "Geophysics"
+      },
+      {
+        "name": "physics.hist-ph",
+        "description": "History and Philosophy of Physics"
+      },
+      {
+        "name": "physics.ins-det",
+        "description": "Instrumentation and Detectors"
+      },
+      {
+        "name": "physics.med-ph",
+        "description": "Medical Physics"
+      },
+      {
+        "name": "physics.optics",
+        "description": "Optics"
+      },
+      {
+        "name": "physics.plasm-ph",
+        "description": "Plasma Physics"
+      },
+      {
+        "name": "physics.pop-ph",
+        "description": "Popular Physics"
+      },
+      {
+        "name": "physics.soc-ph",
+        "description": "Physics and Society"
+      },
+      {
+        "name": "physics.space-ph",
+        "description": "Space Physics"
+      }
+    ]
+  },
+  {
+    "name": "Quantum Physics",
+    "subtitle": "quant-ph",
+    "subcategories": [
+      {
+        "name": "quant-ph",
+        "description": "Quantum Physics"
+      }
+    ]
+  }
+]
